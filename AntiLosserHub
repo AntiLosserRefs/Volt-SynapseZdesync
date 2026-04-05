@@ -6,6 +6,7 @@ getgenv().DISCORD_WEBHOOK = "https://discord.com/api/webhooks/148716600850959979
 getgenv().TARGET_BRAINROTS = {
     ["Meowl"] = true,
     ["Skibidi Toilet"] = true,
+    ["Los Bunitos"] = true,
     ["Strawberry Elephant"] = true,
     ["Headless Horseman"] = true,
     ["La Lucky Grande"] = true,
